@@ -9,7 +9,6 @@ read -p "Enter the URL of the site you want to create a frontend for: " SITE_URL
 # ==========================
 # Create resized icons
 # ==========================
-cd Nebula---easy-site-to-exe-maker-app || exit
 
 convert "$ICON_PATH" -resize 512x512 build/icons/512.png
 convert "$ICON_PATH" -resize 256x256 build/icons/256.png

@@ -7,7 +7,7 @@
 ```
 git clone https://github.com/nizpew/Nebula---easy-site-to-exe-maker.git
 cd Nebula---easy-site-to-exe-maker
-sudo chmod *sh 
+sudo chmod +x *sh 
 ./*sh
 ```
 ---

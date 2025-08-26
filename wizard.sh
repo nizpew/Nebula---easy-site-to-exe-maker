@@ -39,3 +39,9 @@ echo 'AppImage build completed!'
 pnpm run dist -- --win
 wine dist/Nebula\ Setup\ 1.0.0.exe
 
+
+
+
+
+
+echo "your archives are in 'dist/Nebula Setup 1.0.0.exe' "
